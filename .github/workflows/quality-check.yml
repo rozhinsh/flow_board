@@ -1,3 +1,4 @@
+# Checks code quality and verifies the production build.
 name: Quality Check
 
 on:
